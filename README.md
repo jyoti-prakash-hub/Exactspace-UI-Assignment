@@ -35,6 +35,9 @@ Features:
 - @ mention functionality.
 - Enter to send messages and Shift + Enter for a new line.
 
+### Application Preview
+
+![Chat App](chat-app/chat-app.png)
 Technologies: ReactJS, Vite, JavaScript, CSS.
 
 How to Run the Projects
