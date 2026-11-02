@@ -16,6 +16,9 @@ Features:
 - Search photos by author.
 - Loads additional photos as the user scrolls.
 
+### Application preview
+
+![Photo Gallery](photo-gallery/photo-gallery.jpeg)
 Technologies: ReactJS, Vite, JavaScript, CSS, Font Awesome, Picsum API.
 
 2. Chat App
