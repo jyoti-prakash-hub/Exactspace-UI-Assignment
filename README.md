@@ -37,7 +37,7 @@ Features:
 
 ### Application Preview
 
-![Chat App](chat-app/chat-app.png)
+![Chat App](chat-app/chat-app.jpeg)
 Technologies: ReactJS, Vite, JavaScript, CSS.
 
 How to Run the Projects
